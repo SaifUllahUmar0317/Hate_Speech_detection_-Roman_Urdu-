@@ -15,7 +15,7 @@ import joblib
 # 1. Load Dataset
 # ============================
 
-df = pd.read_csv("Roman_Urdu_dataset.csv")
+df = pd.read_csv("dataset.csv")
 
 # Ensure correct column names
 df.columns = ["text", "label"]

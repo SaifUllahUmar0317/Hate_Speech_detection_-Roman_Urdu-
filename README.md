@@ -125,6 +125,6 @@ If you want to run this app on your own computer, follow these steps:
 
 ## 👤 Author
 **SAIF ULLAH UMAR**
-**AI & ML Engineer**
+**--(AI & ML Engineer)**
 
 - Check out my [GitHub](https://github.com/SaifUllahUmar0317/)

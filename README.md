@@ -107,7 +107,7 @@ If you want to run this app on your own computer, follow these steps:
 ├── requirements.txt            # List of python libraries needed
 ├── roman_urdu_hate_model.pkl   # The trained Machine Learning model
 ├── roman_urdu_vectorizer.pkl   # Saved TF-IDF Vectorizer
-├── training_script.py          # (Optional) The script used to train the model
+├── main.py                     # (Optional) The script used to train the model
 ├── README.md                   # Project documentation
 └── dataset.csv                 # (Optional) The dataset used for training
 ```

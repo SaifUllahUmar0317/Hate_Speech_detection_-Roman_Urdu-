@@ -110,6 +110,7 @@ If you want to run this app on your own computer, follow these steps:
 ├── training_script.py          # (Optional) The script used to train the model
 ├── README.md                   # Project documentation
 └── dataset.csv                 # (Optional) The dataset used for training
+```
 
 ---
 
